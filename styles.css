@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#container {
+	width: 1100px;
+}
+.side {
+	width: 200px;
+}
+
+.center {
+	width: 600px;
+	text-align: center;
+}
+
+
+
